@@ -2,57 +2,57 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
-	"\/img\/mountains\/mountains-extralarge.jpg": {
+	"\/img\/bakery\/bakery-extralarge.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2.8685e+06,
-		"inputAbbreviatedPath": "\/img\/mountains\/mountains-extralarge.jpg",
-		"outputAbbreviatedPath": "\/img\/mountains\/mountains-extralarge.jpg",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/bakery\/bakery-extralarge.jpg",
+		"outputAbbreviatedPath": "\/img\/bakery\/bakery-extralarge.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/mountains\/mountains-extramedium.jpg": {
+	"\/img\/bakery\/bakery-extramedium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 758903,
-		"inputAbbreviatedPath": "\/img\/mountains\/mountains-extramedium.jpg",
-		"outputAbbreviatedPath": "\/img\/mountains\/mountains-extramedium.jpg",
+		"initialSize": 98346,
+		"inputAbbreviatedPath": "\/img\/bakery\/bakery-extramedium.jpg",
+		"outputAbbreviatedPath": "\/img\/bakery\/bakery-extramedium.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/mountains\/mountains-large.jpg": {
+	"\/img\/bakery\/bakery-large.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.07966e+06,
-		"inputAbbreviatedPath": "\/img\/mountains\/mountains-large.jpg",
-		"outputAbbreviatedPath": "\/img\/mountains\/mountains-large.jpg",
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/bakery\/bakery-large.jpg",
+		"outputAbbreviatedPath": "\/img\/bakery\/bakery-large.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/mountains\/mountains-medium.jpg": {
+	"\/img\/bakery\/bakery-medium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 240600,
-		"inputAbbreviatedPath": "\/img\/mountains\/mountains-medium.jpg",
-		"outputAbbreviatedPath": "\/img\/mountains\/mountains-medium.jpg",
+		"initialSize": 37959,
+		"inputAbbreviatedPath": "\/img\/bakery\/bakery-medium.jpg",
+		"outputAbbreviatedPath": "\/img\/bakery\/bakery-medium.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/mountains\/mountains-small.jpg": {
+	"\/img\/bakery\/bakery-small.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 66316,
-		"inputAbbreviatedPath": "\/img\/mountains\/mountains-small.jpg",
-		"outputAbbreviatedPath": "\/img\/mountains\/mountains-small.jpg",
+		"initialSize": 37959,
+		"inputAbbreviatedPath": "\/img\/bakery\/bakery-small.jpg",
+		"outputAbbreviatedPath": "\/img\/bakery\/bakery-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
